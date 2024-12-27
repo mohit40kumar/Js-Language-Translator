@@ -18,7 +18,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
+git clone https://github.com/mohit40kumar/Js-Language-Translator/edit/main/README.md
 ```
 
 2. Open the `index.html` file in your web browser.
